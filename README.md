@@ -14,11 +14,11 @@ The food aggregator company has stored the data of the different orders made by 
 
 The data contains the different data related to a food order. The detailed data dictionary is given below.
 
-**order_id: Unique ID of the order
+* order_id: Unique ID of the order
 
-**customer_id: ID of the customer who ordered the food
+* customer_id: ID of the customer who ordered the food
 
-restaurant_name: Name of the restaurant
+* restaurant_name: Name of the restaurant
 
 cuisine_type: Cuisine ordered by the customer
 
